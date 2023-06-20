@@ -1,2 +1,6 @@
-Herkules apperet
-Herkules habet IX naves
+Herkules apperet.
+Flavia apperet.
+Herkules habet IX asinos.
+Herkules habet V nautas.
+Flavia habet III collegas.
+si Herkules habet IX asinum, Flavia habet III collegas.
