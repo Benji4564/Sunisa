@@ -3,4 +3,8 @@ Flavia apperet.
 Herkules habet IX asinos.
 Herkules habet V nautas.
 Flavia habet III collegas.
-si Herkules habet IX asinum, Flavia habet III collegas.
+si Herkules habet IX asinum, 
+Herkules habet II nautas,
+Flavia habet III asinos.
+Flavia habet VI collegas.
+Herkules dicit: nauta.
