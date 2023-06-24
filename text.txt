@@ -13,3 +13,30 @@ Herkules habet II nautas,
 Flavia habet III asinos.
 Flavia habet VI collegas.
 Herkules dicit: Me habet nautas.
+
+Zeile 1
+class Herkules():
+    def __init__(self):
+Zeile 3
+        self.asinus=9
+Zeile 6
+        self.nauta
+Zeile 2
+class Flavia():
+    def __init__(self):
+Zeile 10
+        self.collegas=3
+
+Zeile 4
+Herkules.asinus += 2
+print(Herkules.asinus)
+Herkules.nauta=2
+for i in range(3):
+    print(Herkules.asinus)
+    print(Herkules.nauta)
+Zeile 11
+if Herkules.asinus == 9:
+    Herkules.nauta=2
+    Flavia.asinus=3
+    Flavia.collega = 6
+print(Herkules.nauta)
